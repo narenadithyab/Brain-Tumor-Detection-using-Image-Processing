@@ -20,8 +20,8 @@ Executing the code
 1.	Open the Code in matlab
 2.	Change the directory for each input image
 
-  Example for image 5
-  I=imread('C:\Users\Naren Adithya\Desktop\5.jpg');
+   Example for image 5
+   I=imread('C:\Users\Naren Adithya\Desktop\5.jpg');
 
 3.	Run the code
 
